@@ -20,11 +20,9 @@ import {
   SiHtml5,
   SiCss3,
    SiNextdotjs ,
-  SiJest,
   SiWebpack,
   SiFigma,
-  SiBlender,
-  SiSvg,
+ 
   SiJavascript,
   SiPostgresql,
   SiSwagger,

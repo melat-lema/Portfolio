@@ -45,7 +45,7 @@ const Education = () => {
       subjects: ["HTML", "CSS", "JavaScript", "React", "Node", "MySQL","API", "Express"],
     },
      {
-      id: 3,
+      id: 4,
       title: "HCIA-DATACOM-Cisco",
       school: "Huawei",
       status: "Completed",
